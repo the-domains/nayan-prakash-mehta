@@ -1,19 +1,4 @@
-name: Nayan Prakash Mehta
-favicon: null
-layout_spectrum: 0.74484
 typography_spectrum: 0.00686
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77160392-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5eef1'
@@ -25,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74484
+analytics:
+  google: UA-77160392-1
+  facebook: null
+  twitter: null
+name: Nayan Prakash Mehta
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 35ec5ff5-101c-4104-9caf-5d7e482e6b58
+    url: 2016-04-30-35ec5ff5-101c-4104-9caf-5d7e482e6b58.html
+    name: Coming Home From the Hospital
+    type: content
+favicon: null
 purpose: []
